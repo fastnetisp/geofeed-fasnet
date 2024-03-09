@@ -1,6 +1,7 @@
 # Geofeed autopublicado como se define en datatracker.ietf.org/doc/html/rfc8805
-# Fastnet Comunicaciones IsP SAS CO Geofeed, ASN 272812 última actualización (rfc3339): 2022-09-14T01:11:28-08:00
-# prefijo,código_país,código_región,ciudad,postal
+# Fastnet Comunicaciones IsP SAS CO Geofeed, ASN 272812 última actualización (rfc3339): 2024-03-09 T11:38:28-05:00
+
+network, iso_country code, iso_region_code, city_name, postal_code
 
 45.176.189.0/24,CO,CO-HUI,Timana,417010
 2803:f890::/32,CO,CO-HUI,Timana,417010
