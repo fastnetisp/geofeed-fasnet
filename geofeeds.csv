@@ -1,3 +1,4 @@
-network, iso_country code, iso_region_code, city_name, postal_code
+38.191.66.0/24,CO,CO-HUI,Timana,417010
+38.191.67.0/24,CO,CO-DC,Bogotá D.C.,111411
 45.176.189.0/24,CO,CO-HUI,Timana,417010
 2803:f890::/32,CO,CO-HUI,Timana,417010
