@@ -1,6 +1,6 @@
 # Geofeed autopublicado como se define en datatracker.ietf.org/doc/html/rfc8805
 # Fastnet Comunicaciones IsP SAS CO Geofeed, ASN 272812 última actualización (rfc3339): 2024-03-09 T11:38:28-05:00
-45.176.189.0/24,CO,CO-HUI,Timana,
+138.117.41.0/24,CO,CO-HUI,Timana,
 2803:f890::/32,CO,CO-HUI,Timana,
 38.191.66.0/24,CO,CO-HUI,Timana,
 38.191.67.0/24,CO,CO-DC,Bogotá D.C.,
